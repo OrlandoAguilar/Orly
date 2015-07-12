@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TapJoy.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TapJoy.cs" Line="11" Column="38" />
+      <File FileName="Assets\TapjoySample\TapjoySample.cs" Line="314" Column="32" />
+      <File FileName="Assets\Scripts\ItemStore.cs" Line="194" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
